@@ -1,0 +1,53 @@
+2020-11-02 20:21:11.7484 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:21:11.8201 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:21:42.2340 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:21:42.2540 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:21:55.9199 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:21:55.9999 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:22:04.3443 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:22:04.3572 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:22:06.1318 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:22:06.1366 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:22:16.3152 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:22:16.3152 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:22:21.5315 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:22:21.5451 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:22:28.3590 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:22:28.3590 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:22:32.2634 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:22:32.2634 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:22:51.9511 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:22:52.0399 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:23:06.3062 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:23:06.3236 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:23:19.5226 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:23:19.5329 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:23:20.2526 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:23:20.2671 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:23:20.8062 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:23:20.8174 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:23:45.5317 INFO Users - Login: Login Attempt from user string
+2020-11-02 20:23:45.6220 INFO Users - Login: string Not Authenticated
+2020-11-02 20:24:08.8378 INFO Users - Login: Login Attempt from user string
+2020-11-02 20:24:17.3330 INFO Users - Login: string Not Authenticated
+2020-11-02 20:24:17.3330 INFO Users - Login: Login Attempt from user string
+2020-11-02 20:24:24.9344 INFO Users - Login: string Not Authenticated
+2020-11-02 20:24:55.4646 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:25:24.5724 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:25:39.3496 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:26:14.9533 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:27:15.1362 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:27:15.2179 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:30:07.9794 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:30:08.0568 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:30:11.5079 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:30:11.5217 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:30:59.0268 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:32:19.5900 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:32:27.2154 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 20:33:13.5109 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:33:18.3294 INFO Users - Login: admin Not Authenticated
+2020-11-02 20:34:03.2959 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:34:06.5823 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 20:34:40.7298 INFO Users - Login: Login Attempt from user admin
+2020-11-02 20:34:40.8114 INFO Users - Login: admin Successfully Authenticated

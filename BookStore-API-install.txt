@@ -1,0 +1,5 @@
+Swashbuckle.AspNetCore.Swagger
+Swashbuckle.AspNetCore.SwaggerUI
+Swashbuckle.AspNetCore.SwaggerGen
+
+NLog.Extensions.Logging

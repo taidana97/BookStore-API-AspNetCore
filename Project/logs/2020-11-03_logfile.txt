@@ -1,0 +1,50 @@
+2020-11-03 15:06:10.5421 INFO Authors - GetAuthor: Attempted Call for id: 1
+2020-11-03 15:06:10.6434 WARN Authors - GetAuthor: Failed to retrieve record with for id: 1
+2020-11-03 15:06:13.5312 INFO Authors - GetAuthor: Attempted Call for id: 2
+2020-11-03 15:06:13.5864 INFO Authors - GetAuthor: Successfully got record with id: 2
+2020-11-03 15:07:33.1456 INFO Users - Login: Login Attempt from user admin
+2020-11-03 15:07:33.2196 INFO Users - Login: admin Successfully Authenticated
+2020-11-03 15:08:24.7953 INFO Authors - Create: Create Attempted
+2020-11-03 15:08:24.9743 INFO Authors - Create: Created was successful
+2020-11-03 15:08:24.9743 INFO Authors - Create: BookStore_API.Data.Author
+2020-11-03 15:09:11.6421 INFO Users - Login: Login Attempt from user customer1
+2020-11-03 15:09:11.6421 INFO Users - Login: customer1 Successfully Authenticated
+2020-11-03 15:10:24.0566 INFO Authors - GetAuthors: Attemted Call
+2020-11-03 15:10:24.0855 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-03 16:25:58.7617 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-03 16:25:58.8434 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-03 16:25:58.8434 ERROR Users - Login: Object reference not set to an instance of an object. - 
+2020-11-03 16:26:43.4197 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-03 16:26:43.4197 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-03 16:26:43.4197 ERROR Users - Login: Object reference not set to an instance of an object. - 
+2020-11-03 16:28:07.9663 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-03 16:28:08.0323 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-03 16:50:49.9483 INFO Users - Register: Registration Attempt for user1@example.com
+2020-11-03 16:56:58.2144 INFO Users - Register: Registration Attempt for user1@example.com
+2020-11-03 16:56:58.3267 ERROR Users - Register: DuplicateUserName User name 'user1@example.com' is already taken.
+2020-11-03 16:56:58.3267 ERROR Users - Register: user1@example.com User Registration Attemp Failed
+2020-11-03 20:51:49.1681 INFO Users - Register: Registration Attempt for user2@example.com
+2020-11-03 21:23:22.7145 INFO Authors - GetAuthors: Attemted Call
+2020-11-03 21:23:22.8291 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-03 21:23:37.2201 INFO Authors - GetAuthors: Attemted Call
+2020-11-03 21:23:37.2304 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-03 21:27:09.8877 INFO Authors - GetAuthors: Attemted Call
+2020-11-03 21:27:09.9974 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-03 21:29:12.3240 INFO Authors - GetAuthors: Attemted Call
+2020-11-03 21:29:12.4312 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-03 21:29:27.0732 INFO Authors - GetAuthors: Attemted Call
+2020-11-03 21:29:27.2075 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-03 21:34:24.5772 INFO Authors - GetAuthors: Attemted Call
+2020-11-03 21:34:24.6797 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-03 21:39:42.2933 INFO Users - Register: Registration Attempt for user2@example.com
+2020-11-03 21:39:42.3835 ERROR Users - Register: DuplicateUserName User name 'user2@example.com' is already taken.
+2020-11-03 21:39:42.3835 ERROR Users - Register: user2@example.com User Registration Attemp Failed
+2020-11-03 21:39:47.3118 INFO Users - Register: Registration Attempt for user2@example.com
+2020-11-03 21:39:47.3303 ERROR Users - Register: DuplicateUserName User name 'user2@example.com' is already taken.
+2020-11-03 21:39:47.3303 ERROR Users - Register: user2@example.com User Registration Attemp Failed
+2020-11-03 21:39:55.0288 INFO Users - Register: Registration Attempt for user3@example.com
+2020-11-03 21:41:04.2922 INFO Users - Register: Registration Attempt for user4@example.com
+2020-11-03 21:41:40.1067 INFO Users - Register: Registration Attempt for user4@example.com
+2020-11-03 21:41:40.1879 ERROR Users - Register: DuplicateUserName User name 'user4@example.com' is already taken.
+2020-11-03 21:41:40.1879 ERROR Users - Register: user4@example.com User Registration Attemp Failed
+2020-11-03 21:41:56.1110 INFO Users - Register: Registration Attempt for user5@example.com

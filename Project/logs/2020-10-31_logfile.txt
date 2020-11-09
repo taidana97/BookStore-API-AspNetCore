@@ -1,0 +1,34 @@
+2020-10-31 15:25:01.0828 INFO Accessed Home Controller
+2020-10-31 15:26:49.1282 INFO Accessed Home Controller
+2020-10-31 15:27:19.6590 INFO Accessed Home Controller
+2020-10-31 15:28:48.5105 DEBUG Got A Value
+2020-10-31 15:28:50.3866 DEBUG Got A Value
+2020-10-31 16:42:18.3934 INFO Attemted Get All Authors
+2020-10-31 16:42:19.6215 INFO Successfully got all Authors
+2020-10-31 16:43:44.8449 INFO Attemted Get All Authors
+2020-10-31 16:43:44.8937 INFO Successfully got all Authors
+2020-10-31 16:45:49.2424 INFO Attemted Get All Authors
+2020-10-31 16:46:03.9883 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. The specified LocalDB instance does not exist.
+) - System.ComponentModel.Win32Exception (0x89C50107): Unknown error (0x89c50107)
+2020-10-31 16:46:32.2116 INFO Attemted Get All Authors
+2020-10-31 16:46:32.2116 INFO Successfully got all Authors
+2020-10-31 16:59:36.3474 INFO Attemted Get All Authors
+2020-10-31 16:59:37.3191 INFO Successfully got all Authors
+2020-10-31 16:59:41.3775 INFO Attemted to get author with id: 1
+2020-10-31 16:59:41.5245 WARN Author is with id:1 was found
+2020-10-31 17:00:03.5403 INFO Attemted to get author with id: 1
+2020-10-31 17:00:03.5596 WARN Author is with id:1 was found
+2020-10-31 17:13:42.8163 INFO Attemted to get author with id: 1
+2020-10-31 17:13:43.8714 WARN Author is with id:1 was found
+2020-10-31 20:08:15.5055 INFO Author Submition Attempted
+2020-10-31 20:08:16.7186 INFO Author Created
+2020-10-31 20:09:38.2514 INFO Attemted Get All Authors
+2020-10-31 20:09:38.4775 INFO Successfully got all Authors
+2020-10-31 20:09:53.3444 INFO Attemted to get author with id: 1
+2020-10-31 20:09:53.4403 INFO Successfully got author with id:1
+2020-10-31 20:10:00.2222 INFO Attemted Get All Authors
+2020-10-31 20:10:00.2222 INFO Successfully got all Authors
+2020-10-31 21:05:45.1595 INFO Author with id:1 Update Attempted
+2020-10-31 21:05:46.1654 INFO Author Created
+2020-10-31 21:05:50.8868 INFO Attemted Get All Authors
+2020-10-31 21:05:51.0995 INFO Successfully got all Authors
