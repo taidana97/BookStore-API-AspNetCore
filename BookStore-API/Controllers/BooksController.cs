@@ -7,6 +7,7 @@ using BookStore_API.Contracts;
 using BookStore_API.Data;
 using BookStore_API.DTOs;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -23,17 +24,22 @@ namespace BookStore_API.Controllers
         private readonly IBookRepository _bookRepository;
         private readonly ILoggerService _logger;
         private readonly IMapper _mapper;
+        private readonly IWebHostEnvironment _env;
 
         public BooksController(
             IBookRepository bookRepository,
             ILoggerService logger,
-            IMapper mapper
+            IMapper mapper,
+            IWebHostEnvironment env
             )
         {
             _bookRepository = bookRepository;
             _logger = logger;
             _mapper = mapper;
+            _env = env;
         }
+
+        private string GetImagePath(string fileName) => $"{_env.ContentRootPath}\\uploads\\{fileName}";
 
         /// <summary>
         /// Get All Books
@@ -53,6 +59,20 @@ namespace BookStore_API.Controllers
 
                 var books = await _bookRepository.FindAll();
                 var res = _mapper.Map<IList<BookDTO>>(books);
+
+                foreach (var item in res)
+                {
+                    if(!string.IsNullOrEmpty(item.Image))
+                    {
+                        var imgPath = GetImagePath(item.Image);
+
+                        if (System.IO.File.Exists(GetImagePath(item.Image)))
+                        {
+                            byte[] imgBytes = System.IO.File.ReadAllBytes(imgPath);
+                            item.File = Convert.ToBase64String(imgBytes);
+                        }
+                    }
+                }
 
                 _logger.LogInfo($"{location}: Successfully got all Records");
 
@@ -90,6 +110,17 @@ namespace BookStore_API.Controllers
                 }
 
                 var res = _mapper.Map<BookDTO>(book);
+
+                if (!string.IsNullOrEmpty(res.Image))
+                {
+                    var imgPath = GetImagePath(res.Image);
+                   
+                    if(System.IO.File.Exists(imgPath))
+                    {
+                        byte[] imgBytes = System.IO.File.ReadAllBytes(imgPath);
+                        res.File = Convert.ToBase64String(imgBytes);
+                    }
+                }
 
                 _logger.LogInfo($"{location}: Successfully got record with id: {id}");
 
@@ -138,6 +169,14 @@ namespace BookStore_API.Controllers
                 if (!isSuccess)
                 {
                     return InternalError($"{location}: Creation failed");
+                }
+
+                if(!string.IsNullOrEmpty(bookDTO.File))
+                {
+                    var imgPath = GetImagePath(bookDTO.Image);
+                    byte[] imgaeBytes = Convert.FromBase64String(bookDTO.File);
+
+                    System.IO.File.WriteAllBytes(imgPath, imgaeBytes);
                 }
 
                 _logger.LogInfo($"{location}: Created was successful");
@@ -189,6 +228,9 @@ namespace BookStore_API.Controllers
                     _logger.LogWarn($"{location}: Data was Incomplete");
                     return BadRequest(ModelState);
                 }
+
+                var oldImage = await _bookRepository.GetImageFileImage(id);
+
                 var book = _mapper.Map<Book>(bookDTO);
 
                 var isSuccess = await _bookRepository.Update(book);
@@ -196,6 +238,20 @@ namespace BookStore_API.Controllers
                 if (!isSuccess)
                 {
                     return InternalError($"{location}: Update failed");
+                }
+
+                if(!bookDTO.Image.Equals(oldImage))
+                {
+                    if (System.IO.File.Exists(GetImagePath(oldImage)))
+                    {
+                        System.IO.File.Delete(GetImagePath(oldImage));
+                    }
+                }
+
+                if (!string.IsNullOrEmpty(bookDTO.File))
+                {
+                    byte[] imgaeBytes = Convert.FromBase64String(bookDTO.File);
+                    System.IO.File.WriteAllBytes(GetImagePath(bookDTO.Image), imgaeBytes);
                 }
 
                 _logger.LogInfo($"{location}: Record with id: {id} successfully updated");
@@ -239,6 +295,8 @@ namespace BookStore_API.Controllers
                     return NotFound();
                 }
 
+                var oldImage = await _bookRepository.GetImageFileImage(id);
+
                 var book = await _bookRepository.FindById(id);
 
                 if (book == null)
@@ -252,6 +310,14 @@ namespace BookStore_API.Controllers
                 if (!isSuccess)
                 {
                     return InternalError($"{location}: Delete failed for record with id: {id}");
+                }
+
+                if (!string.IsNullOrEmpty(book.Image))
+                {
+                    if (System.IO.File.Exists(GetImagePath(oldImage)))
+                    {
+                        System.IO.File.Delete(GetImagePath(oldImage));
+                    }
                 }
 
                 _logger.LogInfo($"{location}: Record with id: {id} successfully deleted");

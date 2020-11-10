@@ -1,0 +1,592 @@
+2020-11-09 14:47:38.2872 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 14:47:38.3677 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 14:48:09.1509 INFO Books - GetBooks: Attemted Call
+2020-11-09 14:48:09.2648 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 14:48:46.4348 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 14:48:46.4348 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 14:48:48.2888 INFO Books - GetBooks: Attemted Call
+2020-11-09 14:48:48.2888 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 14:48:52.5063 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 14:48:52.5523 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 14:48:53.5485 INFO Books - GetBooks: Attemted Call
+2020-11-09 14:48:53.5554 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 14:48:56.4992 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 14:48:56.4992 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 14:51:18.6342 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 14:51:18.6342 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 14:51:20.7707 INFO Books - GetBooks: Attemted Call
+2020-11-09 14:51:20.7766 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 14:54:48.8321 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 14:54:48.8360 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 14:54:50.9758 INFO Books - GetBooks: Attemted Call
+2020-11-09 14:54:50.9758 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 14:55:47.9247 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 14:55:47.9300 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 14:56:01.9861 INFO Books - GetBook: Attempted Call for id: 3
+2020-11-09 14:56:02.0144 INFO Books - GetBook: Successfully got record with id: 3
+2020-11-09 14:57:55.0853 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 14:57:55.1667 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 14:57:55.1780 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 14:57:55.1780 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 14:57:58.6775 INFO Books - GetBooks: Attemted Call
+2020-11-09 14:57:58.7952 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 15:02:47.2239 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 15:02:47.2373 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 15:02:49.2338 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 15:02:49.2858 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 15:02:57.6704 INFO Authors - GetAuthor: Attempted Call for id: 2
+2020-11-09 15:02:57.7065 INFO Authors - GetAuthor: Successfully got record with id: 2
+2020-11-09 15:03:00.8500 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 15:03:00.8500 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 15:08:20.5524 INFO Users - Login: Login Attempt from user admin@example.com
+2020-11-09 15:08:20.6322 INFO Users - Login: admin@example.com Successfully Authenticated
+2020-11-09 15:08:20.6322 ERROR Users - Login: Object reference not set to an instance of an object. - 
+2020-11-09 15:09:54.3274 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 15:09:54.3379 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 15:09:56.9268 INFO Books - GetBooks: Attemted Call
+2020-11-09 15:09:57.0330 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 15:11:17.8180 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 15:11:17.8258 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 15:11:27.2632 INFO Books - GetBook: Attempted Call for id: 3
+2020-11-09 15:11:27.2930 INFO Books - GetBook: Successfully got record with id: 3
+2020-11-09 15:14:53.3631 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 15:14:53.3717 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 15:14:55.2598 INFO Books - GetBooks: Attemted Call
+2020-11-09 15:14:55.2598 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 15:14:56.6206 INFO Books - GetBook: Attempted Call for id: 3
+2020-11-09 15:14:56.6206 INFO Books - GetBook: Successfully got record with id: 3
+2020-11-09 15:15:16.7871 INFO Books - GetBooks: Attemted Call
+2020-11-09 15:15:16.7871 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 15:15:17.5480 INFO Books - GetBook: Attempted Call for id: 3
+2020-11-09 15:15:17.5549 INFO Books - GetBook: Successfully got record with id: 3
+2020-11-09 15:50:10.1210 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 15:50:10.9896 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 15:50:13.9014 INFO Books - GetBooks: Attemted Call
+2020-11-09 15:50:13.9014 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:12:00.8800 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:12:01.6095 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:12:04.0331 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:12:04.0384 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:12:04.8384 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 16:12:04.8800 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 16:13:18.5792 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:13:18.5792 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:13:20.5873 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:13:20.5873 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:13:27.5429 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 16:13:27.5429 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 16:17:32.5282 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:17:32.5282 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:17:34.4956 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:17:34.4956 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:17:35.1782 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 16:17:35.1782 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 16:18:59.4577 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:18:59.4619 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:19:01.2807 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:19:01.2807 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:19:09.0778 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 16:19:09.0778 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 16:19:09.5909 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:19:09.5909 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:19:16.6925 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 16:19:16.6969 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 16:19:27.8893 INFO Books - Create: Create Attempted
+2020-11-09 16:19:28.0774 INFO Books - Create: Created was successful
+2020-11-09 16:19:28.0774 INFO Books - Create: BookStore_API.Data.Book
+2020-11-09 16:19:28.0918 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:19:28.0918 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:28:15.6384 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:28:16.3913 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:28:33.5158 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:28:33.5158 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:28:35.7617 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 16:28:35.7617 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 16:28:37.0496 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:28:37.0534 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:29:35.6083 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:29:35.6083 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:29:37.1440 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:29:37.1440 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:29:38.7949 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 16:29:38.7949 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 16:29:39.8710 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:29:39.8710 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:31:03.5420 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:31:03.5420 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:31:05.4299 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 16:31:05.4299 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 16:31:06.8636 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:31:06.8661 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:31:34.3279 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:31:34.3279 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:31:36.2588 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:31:36.2588 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:32:34.7497 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:32:34.7497 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:32:36.4924 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 16:32:36.4924 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 16:32:36.7747 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:32:36.7747 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:35:15.0272 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:35:15.0272 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:35:19.4923 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:35:19.4923 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:37:04.0112 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:37:04.0112 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:37:05.7383 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:37:05.7405 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:39:22.5666 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:39:22.5687 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:39:24.4302 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:39:24.4302 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:39:25.7498 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 16:39:25.7498 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 16:43:05.7123 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:43:05.7123 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:43:07.5474 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:43:07.5474 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:43:09.4914 INFO Books - GetBook: Attempted Call for id: 3
+2020-11-09 16:43:09.4914 INFO Books - GetBook: Successfully got record with id: 3
+2020-11-09 16:43:11.1283 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:43:11.1283 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:43:11.9025 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 16:43:11.9025 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 16:43:13.6970 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:43:13.6970 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:44:07.4177 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:44:07.4177 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:44:09.0828 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:44:09.0848 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:47:36.5056 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:47:36.5895 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:47:54.1489 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 16:47:54.2810 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 16:47:56.8368 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:47:56.8696 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:47:57.4013 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 16:47:57.4140 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 16:54:31.6783 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:54:31.7511 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:54:34.1068 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:54:34.2266 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:54:52.6936 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 16:54:52.7164 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 16:55:36.7570 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:55:36.7570 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:55:36.8367 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:55:36.8367 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:55:39.8255 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:55:39.9398 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:55:40.6338 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 16:55:40.6740 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 16:55:52.9896 INFO Books - Create: Create Attempted
+2020-11-09 16:55:53.1510 INFO Books - Create: Created was successful
+2020-11-09 16:55:53.1510 INFO Books - Create: BookStore_API.Data.Book
+2020-11-09 16:55:53.1700 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:55:53.1700 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:55:55.3991 INFO Books - GetBook: Attempted Call for id: 2002
+2020-11-09 16:55:55.4207 INFO Books - GetBook: Successfully got record with id: 2002
+2020-11-09 16:55:58.0011 INFO Authors - GetAuthor: Attempted Call for id: 2002
+2020-11-09 16:55:58.0405 INFO Authors - GetAuthor: Successfully got record with id: 2002
+2020-11-09 16:55:59.1447 INFO Books - GetBook: Attempted Call for id: 2002
+2020-11-09 16:55:59.1516 INFO Books - GetBook: Successfully got record with id: 2002
+2020-11-09 16:56:01.7497 INFO Authors - GetAuthor: Attempted Call for id: 2002
+2020-11-09 16:56:01.7578 INFO Authors - GetAuthor: Successfully got record with id: 2002
+2020-11-09 16:56:02.2420 INFO Books - GetBook: Attempted Call for id: 2002
+2020-11-09 16:56:02.2420 INFO Books - GetBook: Successfully got record with id: 2002
+2020-11-09 16:56:03.2587 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:56:03.2587 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:56:06.6858 INFO Books - GetBook: Attempted Call for id: 3
+2020-11-09 16:56:06.6858 INFO Books - GetBook: Successfully got record with id: 3
+2020-11-09 16:56:10.5725 INFO Authors - GetAuthor: Attempted Call for id: 2
+2020-11-09 16:56:10.5725 INFO Authors - GetAuthor: Successfully got record with id: 2
+2020-11-09 16:56:11.6828 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 16:56:11.6828 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 16:56:13.8420 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:56:13.8420 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:57:00.0330 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:57:00.0330 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:57:02.2452 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:57:02.2452 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:57:04.4580 INFO Books - GetBook: Attempted Call for id: 2002
+2020-11-09 16:57:04.4650 INFO Books - GetBook: Successfully got record with id: 2002
+2020-11-09 16:57:05.6388 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:57:05.6388 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:57:06.5309 INFO Books - GetBook: Attempted Call for id: 2002
+2020-11-09 16:57:06.5309 INFO Books - GetBook: Successfully got record with id: 2002
+2020-11-09 16:57:08.4966 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:57:08.4966 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:57:21.1197 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:57:21.1197 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:57:22.7671 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:57:22.7671 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:57:40.2517 INFO Books - GetBook: Attempted Call for id: 2002
+2020-11-09 16:57:40.2608 INFO Books - GetBook: Successfully got record with id: 2002
+2020-11-09 16:58:03.7936 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 16:58:03.7936 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 16:58:04.7515 INFO Books - GetBooks: Attemted Call
+2020-11-09 16:58:04.7515 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 16:58:07.0282 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 16:58:07.0282 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 17:00:07.2732 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 17:00:07.2732 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 17:00:11.5692 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 17:00:11.5692 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 17:00:12.5115 INFO Books - GetBooks: Attemted Call
+2020-11-09 17:00:12.5115 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 17:03:02.3358 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 17:03:02.3358 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 17:03:05.3870 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 17:03:05.3870 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 17:03:05.8297 INFO Books - GetBooks: Attemted Call
+2020-11-09 17:03:05.8297 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 17:03:22.5734 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 17:03:22.5734 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 17:03:24.5348 INFO Books - GetBooks: Attemted Call
+2020-11-09 17:03:24.5379 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 17:07:54.2973 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 17:07:54.2973 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 17:07:54.8441 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 17:07:54.8441 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 17:07:56.0934 INFO Books - GetBooks: Attemted Call
+2020-11-09 17:07:56.0934 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 17:09:20.0695 INFO Books - GetBook: Attempted Call for id: 3
+2020-11-09 17:09:20.0695 INFO Books - GetBook: Successfully got record with id: 3
+2020-11-09 17:09:21.2530 INFO Books - GetBooks: Attemted Call
+2020-11-09 17:09:21.2564 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 17:09:22.2240 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 17:09:22.2271 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 17:10:36.2450 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 17:10:36.2450 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 17:10:38.2589 INFO Books - GetBooks: Attemted Call
+2020-11-09 17:10:38.2589 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 17:10:43.5780 INFO Books - GetBook: Attempted Call for id: 2002
+2020-11-09 17:10:43.5780 INFO Books - GetBook: Successfully got record with id: 2002
+2020-11-09 17:13:49.4786 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 17:13:49.4786 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 17:13:51.7360 INFO Books - GetBooks: Attemted Call
+2020-11-09 17:13:51.7360 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 17:13:53.2523 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 17:13:53.2523 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 17:14:20.3250 INFO Books - Create: Create Attempted
+2020-11-09 17:14:20.3250 INFO Books - Create: Created was successful
+2020-11-09 17:14:20.3250 INFO Books - Create: BookStore_API.Data.Book
+2020-11-09 17:14:20.3432 INFO Books - GetBooks: Attemted Call
+2020-11-09 17:14:20.3432 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 17:14:26.2555 INFO Books - GetBook: Attempted Call for id: 2003
+2020-11-09 17:14:26.2555 INFO Books - GetBook: Successfully got record with id: 2003
+2020-11-09 17:19:46.3396 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 17:19:46.3396 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 17:19:48.5369 INFO Books - GetBooks: Attemted Call
+2020-11-09 17:19:48.5387 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 17:19:49.8132 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 17:19:49.8132 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 17:20:09.0127 INFO Books - Create: Create Attempted
+2020-11-09 17:20:09.0127 INFO Books - Create: Created was successful
+2020-11-09 17:20:09.0218 INFO Books - Create: BookStore_API.Data.Book
+2020-11-09 17:20:09.0218 INFO Books - GetBooks: Attemted Call
+2020-11-09 17:20:09.0218 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 17:20:16.8329 INFO Books - GetBook: Attempted Call for id: 2004
+2020-11-09 17:20:16.8347 INFO Books - GetBook: Successfully got record with id: 2004
+2020-11-09 17:21:18.7917 INFO Books - GetBooks: Attemted Call
+2020-11-09 17:21:18.7917 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 17:21:42.3583 INFO Books - GetBook: Attempted Call for id: 2004
+2020-11-09 17:21:42.3583 INFO Books - GetBook: Successfully got record with id: 2004
+2020-11-09 17:21:43.5320 INFO Authors - GetAuthor: Attempted Call for id: 3
+2020-11-09 17:21:43.5320 INFO Authors - GetAuthor: Successfully got record with id: 3
+2020-11-09 20:08:22.8025 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 20:08:22.8829 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 20:08:27.5415 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:08:27.6645 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:08:58.4870 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 20:08:58.4916 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 20:09:00.9748 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:09:00.9748 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:09:30.6132 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 20:09:30.6317 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 20:09:32.4484 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:09:32.4484 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:09:33.9749 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:09:34.0207 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:09:34.0399 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 20:09:34.0555 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 20:10:17.9890 INFO Books - Update: Update Attempted on record with id: 1002
+2020-11-09 20:10:18.1344 INFO Books - Update: Record with id: 1002 successfully updated
+2020-11-09 20:10:18.1528 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:10:18.1528 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:10:24.8885 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:10:24.8885 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:10:24.9148 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 20:10:24.9148 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 20:10:31.2488 INFO Books - Update: Update Attempted on record with id: 1002
+2020-11-09 20:10:31.2570 INFO Books - Update: Record with id: 1002 successfully updated
+2020-11-09 20:10:31.2731 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:10:31.2731 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:11:15.0525 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 20:11:15.0528 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 20:11:16.9594 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:11:16.9594 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:11:19.2576 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:11:19.2576 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:11:19.2816 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 20:11:19.2816 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 20:11:29.0997 INFO Books - Update: Update Attempted on record with id: 1002
+2020-11-09 20:11:29.0997 INFO Books - Update: Record with id: 1002 successfully updated
+2020-11-09 20:11:29.1193 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:11:29.1193 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:11:32.2363 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:11:32.2410 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:11:32.2410 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 20:11:32.2564 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 20:12:23.0877 INFO Books - Update: Update Attempted on record with id: 1002
+2020-11-09 20:12:23.1116 INFO Books - Update: Record with id: 1002 successfully updated
+2020-11-09 20:12:23.1250 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:12:23.1250 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:15:22.9344 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 20:15:23.2135 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 20:15:25.0819 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:15:25.0852 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:15:30.2593 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:15:30.2593 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:15:30.2851 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 20:15:30.2878 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 20:15:38.0868 INFO Books - Update: Update Attempted on record with id: 1002
+2020-11-09 20:15:38.0868 INFO Books - Update: Record with id: 1002 successfully updated
+2020-11-09 20:15:38.1086 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:15:38.1086 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:15:39.8397 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:15:39.8397 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:15:39.8542 INFO Books - GetBook: Attempted Call for id: 2002
+2020-11-09 20:15:39.8542 INFO Books - GetBook: Successfully got record with id: 2002
+2020-11-09 20:15:47.5029 INFO Books - Update: Update Attempted on record with id: 2002
+2020-11-09 20:15:47.5089 INFO Books - Update: Record with id: 2002 successfully updated
+2020-11-09 20:15:47.5089 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:15:47.5220 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:15:51.1354 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:15:51.1354 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:15:51.1512 INFO Books - GetBook: Attempted Call for id: 2002
+2020-11-09 20:15:51.1512 INFO Books - GetBook: Successfully got record with id: 2002
+2020-11-09 20:15:53.8090 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:15:53.8090 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:15:55.5307 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:15:55.5307 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:15:55.5417 INFO Books - GetBook: Attempted Call for id: 2002
+2020-11-09 20:15:55.5417 INFO Books - GetBook: Successfully got record with id: 2002
+2020-11-09 20:15:57.3071 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:15:57.3071 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:15:58.1521 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:15:58.1521 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:15:58.1521 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 20:15:58.1638 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 20:16:00.5695 INFO Books - Update: Update Attempted on record with id: 1002
+2020-11-09 20:16:00.5695 INFO Books - Update: Record with id: 1002 successfully updated
+2020-11-09 20:16:00.5877 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:16:00.5877 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:17:21.1004 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 20:17:21.1004 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 20:17:23.1081 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:17:23.1081 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:17:25.7493 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:17:25.7493 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:17:25.7708 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 20:17:25.7735 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 20:17:28.4767 INFO Books - Update: Update Attempted on record with id: 1002
+2020-11-09 20:17:28.4767 INFO Books - Update: Record with id: 1002 successfully updated
+2020-11-09 20:17:28.4942 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:17:28.4942 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:18:34.6469 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 20:18:34.9952 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 20:18:45.3646 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:18:45.4965 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:18:49.5748 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:18:49.6229 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:18:49.6496 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 20:18:49.6656 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 20:19:06.1611 INFO Books - Update: Update Attempted on record with id: 1002
+2020-11-09 20:19:06.5929 INFO Books - Update: Record with id: 1002 successfully updated
+2020-11-09 20:19:29.3663 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:19:29.3663 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:21:01.9285 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 20:21:02.0026 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 20:21:05.0816 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:21:05.2001 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:21:06.9889 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:21:07.0314 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:21:07.0482 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 20:21:07.0636 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 20:21:09.5401 INFO Books - Update: Update Attempted on record with id: 1002
+2020-11-09 20:21:09.6805 INFO Books - Update: Record with id: 1002 successfully updated
+2020-11-09 20:21:09.6964 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:21:09.6964 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:21:11.2195 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:21:11.2261 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:21:11.2261 INFO Books - GetBook: Attempted Call for id: 2002
+2020-11-09 20:21:11.2261 INFO Books - GetBook: Successfully got record with id: 2002
+2020-11-09 20:21:15.1560 INFO Books - Update: Update Attempted on record with id: 2002
+2020-11-09 20:21:15.1654 INFO Books - Update: Record with id: 2002 successfully updated
+2020-11-09 20:21:15.1654 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:21:15.1797 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:21:16.2476 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:21:16.2607 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:21:16.2607 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 20:21:16.2718 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 20:21:20.2681 INFO Books - Update: Update Attempted on record with id: 1002
+2020-11-09 20:21:20.2681 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:21:20.2771 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:21:20.2771 INFO Books - Update: Record with id: 1002 successfully updated
+2020-11-09 20:21:21.3110 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:21:21.3110 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:21:21.3188 INFO Books - GetBook: Attempted Call for id: 2002
+2020-11-09 20:21:21.3364 INFO Books - GetBook: Successfully got record with id: 2002
+2020-11-09 20:21:24.1301 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:21:24.1305 INFO Books - Update: Update Attempted on record with id: 2002
+2020-11-09 20:21:24.1305 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:21:24.1305 INFO Books - Update: Record with id: 2002 successfully updated
+2020-11-09 20:21:27.7873 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:21:27.7873 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:21:27.8036 INFO Books - GetBook: Attempted Call for id: 3
+2020-11-09 20:21:27.8036 INFO Books - GetBook: Successfully got record with id: 3
+2020-11-09 20:21:32.5714 INFO Books - Update: Update Attempted on record with id: 3
+2020-11-09 20:21:32.5714 INFO Books - Update: Record with id: 3 successfully updated
+2020-11-09 20:21:32.5919 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:21:32.5919 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:31:21.3203 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 20:31:21.3796 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 20:32:28.5474 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 20:32:28.5919 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 20:32:32.4227 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:32:32.4227 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:32:35.6669 INFO Books - GetBook: Attempted Call for id: 3
+2020-11-09 20:32:35.6669 INFO Books - GetBook: Successfully got record with id: 3
+2020-11-09 20:33:42.3512 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 20:33:42.3512 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 20:33:44.3850 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:33:44.3850 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:33:45.8162 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:33:45.8195 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:33:47.0780 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:33:47.0780 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:33:48.3114 INFO Books - GetBook: Attempted Call for id: 3
+2020-11-09 20:33:48.3114 INFO Books - GetBook: Successfully got record with id: 3
+2020-11-09 20:33:59.0125 INFO Books - Delete: Delete Attempted on record with id: 3
+2020-11-09 20:33:59.0361 INFO Books - Delete: Record with id: 3 successfully deleted
+2020-11-09 20:33:59.0450 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:33:59.0450 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:34:19.1359 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:34:19.1359 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:34:26.9565 INFO Authors - GetAuthor: Attempted Call for id: 3
+2020-11-09 20:34:26.9933 INFO Authors - GetAuthor: Successfully got record with id: 3
+2020-11-09 20:34:31.0781 INFO Authors - Delete: Delete Attempted on record with id: 3
+2020-11-09 20:34:31.1159 INFO Authors - Delete: Record with id: 3 successfully deleted
+2020-11-09 20:34:31.1159 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:34:31.1159 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:34:32.8112 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:34:32.8112 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:35:28.3571 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:35:28.3571 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:35:28.3701 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 20:35:28.3701 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 20:35:32.8610 INFO Books - Update: Update Attempted on record with id: 1002
+2020-11-09 20:35:32.8691 INFO Books - Update: Record with id: 1002 successfully updated
+2020-11-09 20:35:32.8691 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:35:32.8814 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:35:34.1458 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:35:34.1477 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:35:34.1477 INFO Books - GetBook: Attempted Call for id: 2002
+2020-11-09 20:35:34.1477 INFO Books - GetBook: Successfully got record with id: 2002
+2020-11-09 20:35:36.4993 INFO Books - Update: Update Attempted on record with id: 2002
+2020-11-09 20:35:36.5054 INFO Books - Update: Record with id: 2002 successfully updated
+2020-11-09 20:35:36.5054 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:35:36.5054 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:36:10.6219 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:36:10.6219 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:36:10.6320 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 20:36:10.6320 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 20:36:11.7163 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:36:11.7163 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:36:12.3932 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 20:36:12.3932 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 20:49:17.4116 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 20:49:18.2262 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 20:49:21.4570 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:49:21.4602 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:49:34.8933 INFO Authors - Create: Create Attempted
+2020-11-09 20:49:34.9486 INFO Authors - Create: Created was successful
+2020-11-09 20:49:34.9486 INFO Authors - Create: BookStore_API.Data.Author
+2020-11-09 20:49:34.9758 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:49:34.9758 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:51:10.4955 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 20:51:10.5095 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 20:51:12.9125 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:51:12.9125 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:51:17.2297 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 20:51:17.2297 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 20:51:19.5714 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 20:51:19.5714 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 20:51:20.5392 INFO Books - GetBooks: Attemted Call
+2020-11-09 20:51:20.5392 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 20:53:01.5479 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 20:53:01.5856 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 20:53:03.6070 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:53:03.6070 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:53:08.0451 INFO Authors - GetAuthor: Attempted Call for id: 2
+2020-11-09 20:53:08.0451 INFO Authors - GetAuthor: Successfully got record with id: 2
+2020-11-09 20:53:11.3381 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 20:53:11.3381 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 20:53:20.4386 INFO Authors - GetAuthor: Attempted Call for id: 2
+2020-11-09 20:53:20.4386 INFO Authors - GetAuthor: Successfully got record with id: 2
+2020-11-09 21:06:02.3463 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-09 21:06:03.1092 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-09 21:06:05.2072 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 21:06:05.2136 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 21:06:06.7295 INFO Authors - GetAuthor: Attempted Call for id: 2
+2020-11-09 21:06:06.7295 INFO Authors - GetAuthor: Successfully got record with id: 2
+2020-11-09 21:06:30.3129 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 21:06:30.3129 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 21:06:36.7404 INFO Authors - GetAuthor: Attempted Call for id: 2
+2020-11-09 21:06:36.7428 INFO Authors - GetAuthor: Successfully got record with id: 2
+2020-11-09 21:06:41.5537 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 21:06:41.5537 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 21:06:43.6487 INFO Books - GetBooks: Attemted Call
+2020-11-09 21:06:43.6487 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 21:06:45.6541 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 21:06:45.6541 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 21:06:53.3074 INFO Books - GetBooks: Attemted Call
+2020-11-09 21:06:53.3074 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 21:06:58.8181 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 21:06:58.8196 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 21:06:58.8337 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-09 21:06:58.8337 INFO Books - GetBook: Successfully got record with id: 1002
+2020-11-09 21:07:03.7056 INFO Books - Update: Update Attempted on record with id: 1002
+2020-11-09 21:07:03.7162 INFO Books - Update: Record with id: 1002 successfully updated
+2020-11-09 21:07:03.7326 INFO Books - GetBooks: Attemted Call
+2020-11-09 21:07:03.7326 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 21:07:08.6593 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 21:07:08.6593 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 21:07:09.3835 INFO Books - GetBooks: Attemted Call
+2020-11-09 21:07:09.3835 INFO Books - GetBooks: Successfully got all Records
+2020-11-09 21:07:10.8748 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 21:07:10.8748 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 21:07:11.8033 INFO Authors - GetAuthor: Attempted Call for id: 2
+2020-11-09 21:07:11.8033 INFO Authors - GetAuthor: Successfully got record with id: 2
+2020-11-09 21:07:14.5833 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 21:07:14.5859 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 21:07:23.3656 INFO Authors - GetAuthor: Attempted Call for id: 2
+2020-11-09 21:07:23.3656 INFO Authors - GetAuthor: Successfully got record with id: 2
+2020-11-09 21:07:25.4095 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 21:07:25.4095 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 21:07:26.0284 INFO Authors - GetAuthor: Attempted Call for id: 2
+2020-11-09 21:07:26.0284 INFO Authors - GetAuthor: Successfully got record with id: 2
+2020-11-09 21:07:28.0445 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 21:07:28.0445 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 21:07:30.0871 INFO Authors - GetAuthor: Attempted Call for id: 2002
+2020-11-09 21:07:30.0871 INFO Authors - GetAuthor: Successfully got record with id: 2002
+2020-11-09 21:07:32.9544 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 21:07:32.9544 INFO Authors - GetAuthors: Successfully got all Records
+2020-11-09 21:07:32.9659 INFO Authors - Update: Update Attempted on record with id: 2002
+2020-11-09 21:07:32.9786 INFO Authors - Update: Record with id: 2002 successfully updated
+2020-11-09 21:07:35.1463 INFO Authors - GetAuthor: Attempted Call for id: 2002
+2020-11-09 21:07:35.1463 INFO Authors - GetAuthor: Successfully got record with id: 2002
+2020-11-09 21:07:38.3872 INFO Authors - GetAuthors: Attemted Call
+2020-11-09 21:07:38.3872 INFO Authors - GetAuthors: Successfully got all Records
